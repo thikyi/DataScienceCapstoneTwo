@@ -23,7 +23,8 @@ The necessary data was accquired from the  sources https://data.lacity.org/Publi
 
 ### Footer Note
 All files cannot be uploadd into Github because of file limitation. Full data files processed through out the project can be found at 
-https://drive.google.com/drive/folders/1Frj4IEXj8Ly_ppH_a_yHnnzUngTYozCs?usp=drive_link.
+https://drive.google.com/drive/folders/1Frj4IEXj8Ly_ppH_a_yHnnzUngTYozCs/view?usp=drive_link
+https://drive.google.com/file/d/1x7llAVpmfx-RvsLihzpLB-Wt7BSByBW7/view?usp=drive_link
 
 
 
