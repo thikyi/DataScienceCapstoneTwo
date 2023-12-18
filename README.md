@@ -18,8 +18,12 @@ The necessary data was accquired from the  sources [https://data.lacity.org/Publ
 1. [Step1_DataWrangling.ipynb](https://github.com/thikyi/DataScienceCapstoneTwo/blob/main/notebooks/Step1_Data%20Wrangling.ipynb): Combined both data source, cleaned the data and handled missing data.
 2. [Step2_Exploratory_data_analysis.ipynb](https://github.com/thikyi/DataScienceCapstoneTwo/blob/main/notebooks/Step2_Exploratory_data_analysis.ipynb): Statistically explored the dataset to understand itscharacteristics, patterns, and potential issues, and creating relevant features that capture the characteristics of crime areas.
 3. [Step3_Preprocessing_and_training.ipynb](https://github.com/thikyi/DataScienceCapstoneTwo/blob/main/notebooks/Step3_Preprocessing_and_training.ipynb): Prepared data to train the models,did feature engineering for both category and numerical data by using StandardScalar,OneHotEncoding and generated dummies datasets.
-4. [Step4_Modeling.ipynb](https://github.com/thikyi/DataScienceCapstoneTwo/blob/main/notebooks/Step4_Modeling.ipynb): Trained the diffrent types of regressions model to predict crime rate trends based on the influenced factors - crime type ,area,victim characteristic,Linear Regression model, Random Forest Regressor, Gradient Boost Regressor, and Decision Tree models are explored,then accessed the model's performance using appropriate metrics such as MAE,MSE and RMSE. Finally, Decision tree has been choosen as the best model, The model file is saved 
+4. [Step4_Modeling.ipynb](https://github.com/thikyi/DataScienceCapstoneTwo/blob/main/notebooks/Step4_Modeling.ipynb): Trained the diffrent types of regressions model to predict crime rate trends based on the influenced factors - crime type ,area,victim characteristic,Linear Regression model, Random Forest Regressor, Gradient Boost Regressor, and Decision Tree models are explored,then accessed the model's performance using appropriate metrics such as MAE,MSE and RMSE. Finally, Decision tree has been choosen as the best model, The model file is saved at [models](https://github.com/thikyi/DataScienceCapstoneTwo/tree/main/models).
+5. [ProjectReport](https://github.com/thikyi/DataScienceCapstoneTwo/blob/main/reports/ProjectReport_v1.0.pdf) is prepared.
 
-### Files
+### Footer Note
+All files cannot be uploadd into Github because of file limitation. Full data files processed through out the project can be found at 
+(data)[https://drive.google.com/drive/folders/1Frj4IEXj8Ly_ppH_a_yHnnzUngTYozCs?usp=drive_link].
+
 
 
