@@ -11,26 +11,14 @@ make informed decisions.
 ## Project Approch
 
 ### Data Acquisition
-The necessary data was accquired from the provided sources:
-- Crime data from 2012 to the present will provide historical crime reports.Crime
-Datasource includes Date Rptd,DATE OCC,TIME OCC,AREA,AREA NAME,Rpt Dist
-No,Part 1-2,Crm Cd,Crm Cd Desc,Mocodes,Vict Age,Vict Sex,Vict Descent,Premis
-Cd,Premis Desc,Weapon Used Cd,Weapon Desc,Status,Status DescLOCATION,Cross
-Street,LAT,and LON).
+The necessary data was accquired from the  sources [https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z/explore] and [https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8]
+
 ### Solution Overview
 
-1. Data Waggling: Cleaning and integrating demographics, and historical crime
-reports, Crime Location,General Crime type,Occurred date will be used as
-primary data. And, matching crime location with current location to find out the
-where is the most common place that current businesses are operating.
-2. Exploratory Data Analysis: Statistically exploring the dataset to understand its
-characteristics, patterns, and potential issues, and creating relevant features that
-capture the characteristics of crime areas.
-3. Preprocessing & Training: Building a machine learning model (e.g., a predictive
-classifier or regressor) that utilizes historical crime data and area features to
-predict future crime rates.
-4. Modeling: Assessing the model's performance using appropriate metrics such as
-MAE,MSE and RMSE.
+1. [Step1_DataWrangling.ipynb](https://github.com/thikyi/DataScienceCapstoneTwo/blob/main/notebooks/Step1_Data%20Wrangling.ipynb): Combined both data source, cleaned the data and handled missing data.
+2. [Step2_Exploratory_data_analysis.ipynb](https://github.com/thikyi/DataScienceCapstoneTwo/blob/main/notebooks/Step2_Exploratory_data_analysis.ipynb): Statistically explored the dataset to understand itscharacteristics, patterns, and potential issues, and creating relevant features that capture the characteristics of crime areas.
+3. [Step3_Preprocessing_and_training.ipynb](https://github.com/thikyi/DataScienceCapstoneTwo/blob/main/notebooks/Step3_Preprocessing_and_training.ipynb): Prepared data to train the models,did feature engineering for both category and numerical data by using StandardScalar,OneHotEncoding and generated dummies datasets.
+4. [Step4_Modeling.ipynb](https://github.com/thikyi/DataScienceCapstoneTwo/blob/main/notebooks/Step4_Modeling.ipynb): Trained the diffrent types of regressions model to predict crime rate trends based on the influenced factors - crime type ,area,victim characteristic,Linear Regression model, Random Forest Regressor, Gradient Boost Regressor, and Decision Tree models are explored,then accessed the model's performance using appropriate metrics such as MAE,MSE and RMSE. Finally, Decision tree has been choosen as the best model, The model file is saved 
 
 ### Files
 
