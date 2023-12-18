@@ -11,7 +11,7 @@ make informed decisions.
 ## Project Approch
 
 ### Data Acquisition
-The necessary data was accquired from the  sources [https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z/explore] and [https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8]
+The necessary data was accquired from the  sources https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z/explore and https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8
 
 ### Solution Overview
 
@@ -23,7 +23,7 @@ The necessary data was accquired from the  sources [https://data.lacity.org/Publ
 
 ### Footer Note
 All files cannot be uploadd into Github because of file limitation. Full data files processed through out the project can be found at 
-(data)[https://drive.google.com/drive/folders/1Frj4IEXj8Ly_ppH_a_yHnnzUngTYozCs?usp=drive_link].
+https://drive.google.com/drive/folders/1Frj4IEXj8Ly_ppH_a_yHnnzUngTYozCs?usp=drive_link.
 
 
 
