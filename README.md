@@ -23,9 +23,7 @@ The necessary data was accquired from the sources https://data.lacity.org/Public
 6. [Slides Presentation](https://github.com/thikyi/DataScienceCapstoneTwo/blob/main/reports/ProjectPresentation_v1.0.pdf) is prepared.
 
 ### Footer Note
-All files cannot be uploadd into Github because of file limitation. Full data files processed through out the project can be found at 
-https://drive.google.com/drive/folders/1Frj4IEXj8Ly_ppH_a_yHnnzUngTYozCs/view?usp=drive_link
-https://drive.google.com/file/d/1x7llAVpmfx-RvsLihzpLB-Wt7BSByBW7/view?usp=drive_link
+All files cannot be uploaded into Github because of size limitation. Full data files processed throughout the project can be found at https://drive.google.com/drive/folders/1Gyf_0yEHZs2v8h3dXyWcxj6AWsMRsXUs?usp=sharing
 
 
 
