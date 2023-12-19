@@ -20,6 +20,7 @@ The necessary data was accquired from the sources https://data.lacity.org/Public
 3. [Step3_Preprocessing_and_training.ipynb](https://github.com/thikyi/DataScienceCapstoneTwo/blob/main/notebooks/Step3_Preprocessing_and_training.ipynb): Prepared data to train the models,did feature engineering for both category and numerical data by using StandardScalar,OneHotEncoding and generated dummies datasets.
 4. [Step4_Modeling.ipynb](https://github.com/thikyi/DataScienceCapstoneTwo/blob/main/notebooks/Step4_Modeling.ipynb): Trained the diffrent types of regressions model to predict crime rate trends based on the influenced factors - crime type ,area,victim characteristic,Linear Regression model, Random Forest Regressor, Gradient Boost Regressor, and Decision Tree models are explored,then accessed the model's performance using appropriate metrics such as MAE,MSE and RMSE. Finally, Decision tree has been choosen as the best model, The model file is saved at [models](https://github.com/thikyi/DataScienceCapstoneTwo/tree/main/models).
 5. [ProjectReport](https://github.com/thikyi/DataScienceCapstoneTwo/blob/main/reports/ProjectReport_v1.0.pdf) is prepared.
+6. [Slides Presentation](https://github.com/thikyi/DataScienceCapstoneTwo/blob/main/reports/ProjectPresentation_v1.0.pdf) is prepared.
 
 ### Footer Note
 All files cannot be uploadd into Github because of file limitation. Full data files processed through out the project can be found at 
