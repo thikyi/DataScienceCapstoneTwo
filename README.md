@@ -1,4 +1,4 @@
-# Los Angeles County Crime Rate Predication
+# Los Angeles County Crime Rate Prediction
 
 ## Context
 Los Angeles has a crime rate of 2,759 per 100,000 people, which is higher than the national average of 2,580 per
